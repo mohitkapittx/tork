@@ -2,6 +2,9 @@ package kt;
 
 public class lock {
 
+//appa
+
+
 	public static void main(String[] args) {
 		
 		System.out.println("mohit");
