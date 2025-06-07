@@ -2,6 +2,14 @@ package kt;
 
 public class lock {
 
+	
+	
+	void test() {
+		System.out.println("abc");
+	}
+	
+	
+	
 	public static void main(String[] args) {
 		
 		System.out.println("mohit");
